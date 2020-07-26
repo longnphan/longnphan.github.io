@@ -1,0 +1,42 @@
+body {
+background-color: #3282b8;
+padding-top: 3.5rem;
+}
+
+.btn {
+  background-color: #3282b8;
+}
+
+.card-bg {
+  background-color: #bbe1fa;
+}
+
+.card-heading {
+  background-color: #0f4c75;
+  color: #FFF;
+  margin-top: 25px;
+}
+
+.footer {
+  height: 20px;
+}
+
+.heading-padding {
+  padding-bottom: 20px;
+}
+
+img {
+  margin: 0 5px;
+  max-width: 100%;
+}
+.navbar {
+  background-color: #1b262c;
+}
+
+.top-margin {
+  margin-top: 20px;
+}
+
+video {
+  max-width: 100%;
+}
