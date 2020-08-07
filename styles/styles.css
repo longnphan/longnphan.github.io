@@ -7,6 +7,14 @@ padding-top: 3.5rem;
   background-color: #3282b8;
 }
 
+.btn:active {
+  transform: scale(0.95);
+}
+
+.btn:hover {
+  filter: brightness(125%);
+}
+
 .card-bg {
   background-color: #bbe1fa;
 }
