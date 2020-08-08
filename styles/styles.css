@@ -30,7 +30,7 @@ padding-top: 3.5rem;
 }
 
 .heading-padding {
-  padding-bottom: 20px;
+  padding-bottom: 16px;
 }
 
 img {
@@ -41,10 +41,15 @@ img {
 
 img:hover {
    background-color: #3282b8;
+   filter: brightness(40%);
  }
 
 .navbar {
   background-color: #1b262c;
+}
+
+p {
+  font-size: 17px;
 }
 
 .top-margin {
