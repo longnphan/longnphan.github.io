@@ -1,6 +1,6 @@
 body {
-background-color: #3282b8;
-padding-top: 3.5rem;
+  background-color: #3282b8;
+  padding-top: 3.5rem;
 }
 
 .btn {
@@ -21,7 +21,7 @@ padding-top: 3.5rem;
 
 .card-heading {
   background-color: #0f4c75;
-  color: #FFF;
+  color: #fff;
   margin-top: 25px;
 }
 
@@ -40,16 +40,16 @@ img {
 }
 
 img:hover {
-   background-color: #3282b8;
-   filter: brightness(40%);
- }
+  background-color: #3282b8;
+  filter: brightness(40%);
+}
 
 .navbar {
   background-color: #1b262c;
 }
 
 p {
-  font-size: 17px;
+  font-size: 18px;
 }
 
 .top-margin {
